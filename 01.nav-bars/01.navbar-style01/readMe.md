@@ -7,4 +7,4 @@ Here is the result.
 
 <center><img src="https://github.com/kadoubleU/TailwindCSS/blob/main/01.nav-bars/01.navbar-style01/result2.JPG" alt="Navigation Bar"></center>
 
-<center><img src="https://github.com/kadoubleU/TailwindCSS/blob/main/01.nav-bars/01.navbar-style01/result3.JPG" alt="Navigation Bar"></center>
+<center><img src="https://github.com/kadoubleU/TailwindCSS/blob/main/01.nav-bars/01.navbar-style01/result-3.JPG" alt="Navigation Bar"></center>
